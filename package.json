@@ -57,7 +57,7 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "^4.3.3",
     "@astrojs/partytown": "^2.1.4",
-    "@eslint/js": "^9.33.0",
+    "@eslint/js": "^9.34.0",
     "@iconify-json/flat-color-icons": "^1.2.3",
     "@iconify-json/tabler": "^1.2.21",
     "@tailwindcss/typography": "^0.5.16",
