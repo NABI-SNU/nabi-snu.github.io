@@ -31,7 +31,7 @@
     "version:show": "node -p \"require('./package.json').version\""
   },
   "dependencies": {
-    "@astrojs/node": "^9.4.0",
+    "@astrojs/node": "^9.4.3",
     "@astrojs/react": "^4.3.0",
     "@astrojs/rss": "^4.0.12",
     "@astrojs/sitemap": "^3.5.0",
